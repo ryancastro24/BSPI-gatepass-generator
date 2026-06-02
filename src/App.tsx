@@ -33,6 +33,7 @@ const positions = [
   "Delivery Checker",
   "Delivery Helper",
   "DSP",
+  "Panel Helper",
 ];
 
 const positionColors: Record<string, string> = {
