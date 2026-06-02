@@ -27,11 +27,12 @@ const positions = [
   "HR Staff",
   "Warehouse Incharge",
   "Delivery Agents",
-  "Agents",
   "Driver",
   "Mechanic",
   "OIC",
   "Delivery Checker",
+  "Delivery Helper",
+  "DSP",
 ];
 
 const positionColors: Record<string, string> = {
@@ -42,11 +43,11 @@ const positionColors: Record<string, string> = {
   "HR Staff": "#f87171",
   "Warehouse Incharge": "#facc15",
   "Delivery Agents": "#2dd4bf",
-  Agents: "#94a3b8",
   Driver: "#f87171",
   Mechanic: "#38bdf8",
   OIC: "#c084fc",
   "Delivery Checker": "#22c55e",
+  DSP: "#8b5cf6",
 };
 
 export default function App() {
