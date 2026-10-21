@@ -34,6 +34,9 @@ const positions = [
   "Delivery Helper",
   "DSP",
   "Panel Helper",
+  "CAS",
+  "KAE",
+  "DSS",
 ];
 
 const positionColors: Record<string, string> = {
@@ -49,6 +52,9 @@ const positionColors: Record<string, string> = {
   OIC: "#c084fc",
   "Delivery Checker": "#22c55e",
   DSP: "#8b5cf6",
+  CAS: "#8b5cf6",
+  KAE: "#8b5cf6",
+  DSS: "#8b5cf6",
 };
 
 export default function App() {
